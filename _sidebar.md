@@ -26,9 +26,9 @@
         * [Git Debug Records](docs/dev-tools/git/git-debug-rec.md)
     * Vim
         * Vim Notes
-    * Mac OS
+    * Mac
         * Terminal
-            * [tree](docs/dev-tools/mac-os/terminal/tree.md)
+            * [tree](docs/dev-tools/mac/terminal/tree.md)
         * Applications
         * Chrome Plugins
 

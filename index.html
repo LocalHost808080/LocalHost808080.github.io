@@ -48,8 +48,11 @@
 
         // 小屏设备下合并导航栏到侧边栏
         mergeNavbar: true,
+
         // themeColor: '#25798A'
-        themeColor: '#AAAAAA'
+        themeColor: '#AAAAAA',
+
+
       }
     </script>
 
@@ -70,6 +73,16 @@
           hideOtherSidebarContent: false,
           namespace: 'Docsify-Guide',
         }
+
+        // JavaGuide's Setting:
+        // search: {
+        //   //maxAge: 86400000, // 过期时间，单位毫秒，默认一天
+        //   paths: "auto",
+        //   placeholder: "搜索",
+        //   noData: "找不到结果",
+        //   // 搜索标题的最大程级, 1 - 6
+        //   depth: 3,
+        // }
       }
     </script>
 
@@ -103,5 +116,7 @@
     <!--  代码高亮  -->
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <!--Java代码高亮-->
+    <script src="//unpkg.com/prismjs/components/prism-java.js"></script>
   </body>
 </html>

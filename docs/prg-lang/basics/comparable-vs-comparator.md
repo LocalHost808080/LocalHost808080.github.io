@@ -1,4 +1,4 @@
-# Comparable VS Comparator
+# Comparable VS. Comparator
 
 2022.03.06
 

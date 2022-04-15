@@ -13,7 +13,9 @@ Created on 2022.02.14
 - Sys : System
 - Dev : Development
 
+#### MSc Project
 
+- [Detailed Project Proposal](docs/projects/msc-project/detailed-proposal.md)
 
 
 

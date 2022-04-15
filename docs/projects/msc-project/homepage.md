@@ -12,7 +12,15 @@ Development of Library Management System with Separate Front-End and Back-End
 
 ### Objectives
 
-In this project I aim to develop a library management system with separate front-end and back-end based on Vue.js and Spring Boot frameworks. Through user authentication and authorization, it can realize simple book searching, borrowing, and returning functions from the readers' perspective, as well as book searching and management, book borrowing and returning request processing, and other functions from the administrator's perspective.
+The purpose of this project is to explore and practice Web App development with front-end and back-end separation mode.
+
+Spring Boot, MyBatis, MySQL will be used for constructing the back-end project. Vue.js, Element-UI will be used for constructing the front-end project. Several middlewares, such as Redis, Elasticsearch, MongoDB, RabbitMQ, will be integrated for advanced functions. In detailed, Redis for cache, Elasticsearch as the search engine, MongoDB as the NoSQL database, RabbitMQ for the Message Queue.
+
+I choose the library management system as the practical case basing on the development mode and the corresponding frameworks and middlewares.
+
+Through user authentication and authorization, it will realize simple book searching, checking and borrowing functions from the readers' perspective, as well as book searching and management, book borrowing request processing, and other functions from the administrator's perspective.
+
+It is also an important practice to deploy the front-end and back-end projects on the cloud server, making it accessible from the Internet.
 
 ## Detailed Proposal
 
